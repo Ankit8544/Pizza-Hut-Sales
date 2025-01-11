@@ -5,7 +5,7 @@ A SQL-based project designed to analyze sales data from a pizza restaurant. This
 ---
 
 ### **Live Demo** 🔗  
-[View the PDF Report](https://drive.google.com/file/d/your-pdf-link-here/view)  
+[View the PDF Report]([https://drive.google.com/file/d/your-pdf-link-here/view](https://drive.google.com/file/d/1yx6DXs6QLrtYnKIiPJKYk3iX4T9O_13m/view))  
 
 ---
 
